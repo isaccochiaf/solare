@@ -727,7 +727,7 @@ background: #A6C4BC;
 	color:#fff;
 	text-shadow:1px 1px 0px #333333}
 
-#legendabutton{ width:220px; height:30px; background:#444; cursor:pointer; font-size:18px; font-weight:100; text-align:center; padding-top:10px; margin-top:50px;}
+#legendabutton{ width:220px; height:30px; background:#444; cursor:pointer; font-size:18px; font-weight:100; text-align:center; padding-top:10px; margin-top:10px;}
 
 #legendabutton:hover{  background:#A6C4BC; }
 
