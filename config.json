@@ -3,23 +3,23 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "io",
+    "text": "a",
     "file": "",
     "link": ""
   },
   "text": {
-    "title": "",
-    "more": "<h1>LoremLorem ipsum</h1> <br /> <br /> dolor sit amet, consectetur adipiscing elit. Sed nec est eleifend, dignissim erat sit amet, vehicula magna. Integer vel condimentum elit, et consectetur enim. Maecenas eu tincidunt elit. Morbi aliquet odio in velit pharetra tristique interdum convallis tellus. Morbi molestie iaculis laoreet. Vestibulum eleifend sapien aliquet adipiscing dignissim. Donec malesuada in sem varius lobortis.Nullam quis tortor consequat, mollis nisi et, pharetra metus. Morbi ac ornare nisl, vel sagittis purus. Morbi a velit aliquet leo suscipit feugiat in ut dui. Nullam in ornare libero. Nunc mollis auctor consectetur. Ut semper varius mattis. Maecenas eu ligula et nulla hendrerit cursus. Morbi id consequat ligula. Praesent id elementum ligula. Phasellus condimentum placerat gravida. Integer quis erat nec metus pulvinar tempor eget sed diam. Etiam cursus sapien ac arcu venenatis, at ultrices augue tempus. Morbi laoreet elit a metus ullamcorper vestibulum sit amet ut dolor. Nam tincidunt ligula in erat ultrices aliquam. Fusce malesuada, magna cursus rhoncus ullamcorper, dolor nisl porta magna, eget aliquet quam felis ultrices ipsum. Nam laoreet, dolor in tincidunt euismod, enim lacus tincidunt dui, et interdum libero ligula sit amet nisl.",
-    "intro": "Short Indroduction"
+    "title": "a",
+    "more": "aaaa",
+    "intro": "aaa"
   },
   "legend": {
-    "edgeLabel": "53",
-    "colorLabel": "#555",
-    "nodeLabel": "31"
+    "edgeLabel": "128",
+    "colorLabel": "grey",
+    "nodeLabel": "47"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -29,20 +29,20 @@
   "sigma": {
     "graphProperties": {
       "minEdgeSize": 0.2,
-      "maxNodeSize": 9,
-      "maxEdgeSize": 1,
-      "minNodeSize": 3
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
     },
     "drawingProperties": {
       "labelThreshold": 10,
-      "hoverFontStyle": "light",
+      "hoverFontStyle": "bold",
       "defaultEdgeType": "curve",
       "defaultLabelColor": "#000",
       "defaultLabelHoverColor": "#fff",
-      "defaultLabelSize": 17,
-      "activeFontStyle": "light",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
       "fontStyle": "bold",
-      "defaultHoverLabelBGColor": "#333",
+      "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd"
     },
     "mouseProperties": {
