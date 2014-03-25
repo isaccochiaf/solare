@@ -29,7 +29,7 @@
   "sigma": {
     "graphProperties": {
       "minEdgeSize": 0.2,
-      "maxNodeSize": 10,
+      "maxNodeSize": 9,
       "maxEdgeSize": 0.5,
       "minNodeSize": 4
     },
